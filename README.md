@@ -1,1 +1,1 @@
-A simple shell program
+Simple shell
